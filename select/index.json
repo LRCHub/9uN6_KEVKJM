@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DISTRESS",
+  "base_artist": "hasumi",
+  "createdAt": "2026-02-07T08:09:43.112441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Twilight World (Gas Distress Mix)",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/01_Twilight_World_(Gas_Distress_Mix)_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paradise In Distress",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/02_Paradise_In_Distress_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tyrants in Distress",
+      "artist": "Watchtower",
+      "has_synced": false,
+      "path": "select/03_Tyrants_in_Distress_Watchtower.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Law Of Maximum Distress (including \"The Mincer\")",
+      "artist": "King Crimson",
+      "has_synced": true,
+      "path": "select/04_The_Law_Of_Maximum_Distress_(including__The_Mincer_)_King_Crimson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Law Of Maximum Distress",
+      "artist": "King Crimson",
+      "has_synced": true,
+      "path": "select/05_The_Law_Of_Maximum_Distress_King_Crimson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Romeo's Distress",
+      "artist": "Christian Death",
+      "has_synced": true,
+      "path": "select/06_Romeo's_Distress_Christian_Death.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sounan - A Distress",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/07_Sounan_-_A_Distress_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Distress Rehearsal",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/08_Distress_Rehearsal_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Quiet Distress",
+      "artist": "Killswitch Engage",
+      "has_synced": true,
+      "path": "select/09_Quiet_Distress_Killswitch_Engage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Distress (\"Sending Out an SOS\") [Radio Edit]",
+      "artist": "Big Ali feat. Shana P.",
+      "has_synced": false,
+      "path": "select/10_Distress_(_Sending_Out_an_SOS_)_[Radio_Edit]_Big_Ali_feat._Shana_P..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Distress",
+      "artist": "Our Mirage",
+      "has_synced": false,
+      "path": "select/11_My_Distress_Our_Mirage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sore Distress",
+      "artist": "Saosin",
+      "has_synced": true,
+      "path": "select/12_Sore_Distress_Saosin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Damsel In Distress",
+      "artist": "Rufus Wainwright",
+      "has_synced": true,
+      "path": "select/13_Damsel_In_Distress_Rufus_Wainwright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DISTRESS (feat. IA)",
+      "artist": "hasumi",
+      "has_synced": false,
+      "path": "select/pl_01_DISTRESS_(feat._IA)_hasumi.txt"
+    }
+  ]
+}
